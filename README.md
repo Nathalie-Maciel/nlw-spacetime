@@ -8,7 +8,7 @@ Esse é um projeto Web responsivo de uma cápsula do tempo para exibir memórias
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido durante o NLW a Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o NLW Spacetime com as seguintes tecnologias:
 
 - HTML
 - CSS
